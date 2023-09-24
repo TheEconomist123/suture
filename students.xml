@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<students>
+    <student>
+        <id>11</id>
+        <name>小明</name>
+        <addr>北京海淀区</addr>
+    </student>
+    <student>
+        <id>22</id>
+        <name>小红</name>
+        <addr>北京朝阳区</addr>
+    </student>
+</students>

@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úœüıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¬‘¡=
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±óâÓùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ÕËÂúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ë¶óıÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÈÑC
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†È³î
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÛìØØÿÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ÄùşÊûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(¬·ğÂ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ß°™¥ùÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(èæÅ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ƒìÁì
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ô½çÇûÿÿÿÿ
+S	java:S106("9Replace this use of System.out or System.err by a logger.(óÑÁÃùÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(´ì˜
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ŒÎãÜûÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ªƒ€¼üÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(—…§ûÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(Á´Æàúÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(¨Œ¸Øûÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ

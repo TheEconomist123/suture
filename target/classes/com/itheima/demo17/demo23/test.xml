@@ -1,0 +1,16 @@
+<persons>
+    <person>
+        <name>李四</name>
+        <length>18</length>
+    </person>
+    <person>
+        <name>小刚</name>
+        <length>26</length>
+    </person>
+    <person>
+        <name>小红</name>
+        <length>19</length>
+    </person>
+    <total>100</total>
+
+</persons>

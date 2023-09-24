@@ -1,0 +1,18 @@
+
+R
+java:S2201"0The return value of "ofEpochMilli" must be used.(Îñ¡Íıÿÿÿÿ8ÿóÜü‹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úœüıÿÿÿÿ8ŠôÜü‹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ûøÍÙûÿÿÿÿ8ôÜü‹1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Î®¨†8ôÜü‹1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»“’Øûÿÿÿÿ8‘ôÜü‹1
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ŒÌÏ›ùÿÿÿÿ8•ôÜü‹1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¢šŒéÿÿÿÿÿ8˜ôÜü‹1
+T	java:S106%"9Replace this use of System.out or System.err by a logger.(Êİõ8ôÜü‹1
+L
+java:S2201("*The return value of "atZone" must be used.(¿ÅËÈûÿÿÿÿ8£ôÜü‹1
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ú•€Ë8¦ôÜü‹1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(­²òùÿÿÿÿ8§ôÜü‹1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ËØ…”øÿÿÿÿ8¨ôÜü‹1
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(ÅºØ8ªôÜü‹1
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(²šãÉüÿÿÿÿ8«ôÜü‹1
+]	java:S1251"<This block of commented-out lines of code should be removed.(­äßıÿÿÿÿ8«ôÜü‹1

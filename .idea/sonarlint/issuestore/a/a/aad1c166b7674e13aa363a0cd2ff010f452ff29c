@@ -1,0 +1,26 @@
+
+U
+java:S1854":Remove this useless assignment to local variable "regex4".(ñşÆñÿÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "regex3".(²¸©¤
+U
+java:S1854":Remove this useless assignment to local variable "regex2".(ç«üâøÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "regex1".(Âöóî
+T
+java:S18545">Remove this useless assignment to local variable "regexGreed".(Û‰…Õ
+A
+java:S1481"+Remove this unused "regex1" local variable.(Âöóî
+F
+java:S1481"+Remove this unused "regex2" local variable.(ç«üâøÿÿÿÿ
+A
+java:S1481"+Remove this unused "regex3" local variable.(²¸©¤
+F
+java:S1481"+Remove this unused "regex4" local variable.(ñşÆñÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Õƒã*
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ
+E
+java:S14815"/Remove this unused "regexGreed" local variable.(Û‰…Õ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ş”È÷úÿÿÿÿ
+`
+java:S60196"EFix this reluctant quantifier that will only ever match 1 repetition.(ôÏ“ÿÿÿÿÿ

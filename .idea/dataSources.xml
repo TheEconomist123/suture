@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="bemp@10.0.0.162" uuid="ad5ef8d0-de4b-4169-9e4d-7d9d11e873d0">
+      <driver-ref>db2.11</driver-ref>
+      <remarks>连接162-bemp数据库</remarks>
+      <jdbc-driver>com.ibm.db2.jcc.DB2Driver</jdbc-driver>
+      <jdbc-url>jdbc:db2://10.0.0.162:50000/bemp</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="753efba3-77d1-42a6-b745-f7deb3101a53">
+      <driver-ref>oracle.19</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>oracle系统管理员</remarks>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@localhost:1521:orcl</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+
+L
+java:S1854-"7Remove this useless assignment to local variable "ig1".(ÜƒÆ@
+S
+java:S1854&"=Remove this useless assignment to local variable "idNoRegx1".(ë†é 
+W
+java:S1854$"<Remove this useless assignment to local variable "idNoRegx".(œ÷ð¡þÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "twentyFour".(âË‘Ýúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«™ô ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÇ›Òþÿÿÿÿ
+J
+java:S1481"/Remove this unused "twentyFour" local variable.(âË‘Ýúÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(”ÎŽ¿
+H
+java:S1481$"-Remove this unused "idNoRegx" local variable.(œ÷ð¡þÿÿÿÿ
+D
+java:S1481&".Remove this unused "idNoRegx1" local variable.(ë†é 
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(²”Áã
+=
+java:S1481-"(Remove this unused "ig1" local variable.(ÜƒÆ@
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ú™¤î

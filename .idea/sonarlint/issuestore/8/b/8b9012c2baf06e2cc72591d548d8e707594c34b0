@@ -1,0 +1,10 @@
+
+[	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(Ûö­Â
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÁÇ§ò
+V	java:S125"<This block of commented-out lines of code should be removed.(æªëßùÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÎÂŸ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(½„ûŠ
+J
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
