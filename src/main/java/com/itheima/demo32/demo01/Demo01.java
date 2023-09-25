@@ -1,4 +1,4 @@
-package com.itheima.demon32.demo01;
+package com.itheima.demo32.demo01;
 
 /**
  * @author zhouzz
